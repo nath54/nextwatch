@@ -1,0 +1,12 @@
+data/*
+src/main.c
+*.o
+obj/*
+bin/*
+processed_bin_data/*
+*.json
+tests/tests
+*.db
+*.bin
+.vscode/
+.*/
